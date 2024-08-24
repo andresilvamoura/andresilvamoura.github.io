@@ -2369,7 +2369,7 @@ ol {
 
 .footer__instagram__avatar {
 	display: inline-block;
-	padding: 20px 30px;
+	padding: 20px 20px;
 	background: #ffffff;
 	position: absolute;
 	height: 90px;
@@ -2398,10 +2398,11 @@ ol {
 }
 
 .footer__instagram__avatar .footer__instagram__avatar--text h5 {
-	font-size: 20px;
+	font-size: 16px;
 	color: #111111;
 	font-weight: 700;
-	margin-bottom: 5px;
+	/* margin-bottom: 5px; */
+	margin-top: 10px;
 }
 
 .footer__instagram__avatar .footer__instagram__avatar--text span {
