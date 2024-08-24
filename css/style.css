@@ -896,6 +896,10 @@ ol {
 	line-height: 18px;
 }
 
+.hero__inside__item--meta img {
+	max-width: 60%;
+}
+
 .hero__inside__item--meta p {
 	font-size: 12px;
 	color: #ffffff;
